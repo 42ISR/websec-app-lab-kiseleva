@@ -1,4 +1,4 @@
-# %СЮДА_ВСТАВИТЬ_ВАШ_АПП_2_САБДОМЕН%
+# app2.miorii.kitek-pg.ru
 
 # Лабораторная работа: приложение
 
@@ -7,7 +7,7 @@
 Развернуть приложение из [списка](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#password-managers) на поддомене
 
 ```text
-app2.%ваш_сабдомен%.kitek-pg.ru
+app2.miorii.kitek-pg.ru
 ```
 
 и настроить для него HTTPS с сертификатом от Let's Encrypt.
